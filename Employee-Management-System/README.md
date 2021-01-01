@@ -9,14 +9,15 @@
 * [Usage: ](#usage) 
 * [Testing: ](#testing) 
 * [License: ](#license) 
-* [Developer Profile: ](#profile) 
+* [Developer: ](#developer)
+* [Developer Profile: ](#profile)  
 * [Contact Information: ](#contact) 
 
 ## Description
 Content Management Systemfor managing a company's employees.
 
 ## Installation
-npm i ; npm i inquirer ; npm i mysql
+npm i ; npm i inquirer ; npm i console-table ; npm i mysql
 
 ## Usage
 Free
@@ -26,6 +27,9 @@ Manual
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Developer
+Keith Sutton
 
 ## Profile
 ![https://github.com/keithsutton2324](https://github.com/keithsutton2324)
